@@ -1,0 +1,17 @@
+# Word lock files and editor caches
+~$*
+# The source report may remain open in Word; the staged copy is the tracked one.
+/嵌入式网络基础实践报告-V2.docx
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+
+# Generated ARM build outputs; keep the source and the curated run_01 evidence
+build/
+*.o
+*.d
+*.axf
+*.map

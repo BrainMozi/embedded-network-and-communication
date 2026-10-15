@@ -1,0 +1,2760 @@
+0x2001b6a8->prvIPTask 242: prvIPTask started
+0x20021930->pxEasyFit 829: EasyFit[dd86]: 0 0 0 ( fe80::b4ee:14ff:fe5a:91f3 ->ff02::16 ) BAD
+EVT node=ECU-2 state=TASKS_READY brake_prio=8 network_prio=6 normal_prio=4 sensor_prio=3 heartbeat_prio=2 logger_prio=1 queue_capacity=1024
+0x2001b6a8->usGetExtensionHeaderLength 246: Stop at header 58
+EVT node=ECU-2 task=network prio=6 state=LISTENING group=239.255.0.1 port=5000 tick=2159
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=2160
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=2165
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2166
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=0
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=3
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=3
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=4
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=5
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=5
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=6
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=6
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=7
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=7
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=8
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=8
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=9
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=9
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=10
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=10
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=11
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=11
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=12
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=12
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=13
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=13
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=14
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=14
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=15
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=15
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=16
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=16
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=17
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=17
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=18
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=18
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=19
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=19
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=20
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=20
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=21
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=21
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=22
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=22
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=23
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=23
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=24
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=24
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=25
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=25
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=125
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=125
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=126
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=126
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=127
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=127
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=128
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=128
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=129
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=129
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=130
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=130
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=131
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=131
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=132
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=132
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=133
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=133
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=134
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=134
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=135
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=135
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=136
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=136
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=137
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=137
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=138
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=138
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=139
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=139
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=140
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=140
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=141
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=141
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=142
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=142
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=143
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=143
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=144
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=144
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=145
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=145
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=146
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=146
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=147
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=147
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=148
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=148
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=149
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=149
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=150
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=150
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=151
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=151
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=152
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=152
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=153
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=153
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=154
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=154
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=1503
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=1504
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=2154
+TRACE node=ECU-2 task=IDLE state=SWITCH_IN tick=2154
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=2155
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=2156
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=2156
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=2159
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=2159
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=2159
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=2160
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2160
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=2160
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2165
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2197
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2204
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2211
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2218
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2228
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2244
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2256
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2268
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2276
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2278
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2297
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2304
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2278
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2298
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2312
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2319
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2328
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2334
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2340
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2348
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2364
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2365
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2348
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2365
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2373
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2380
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2389
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2402
+EVT node=ECU-2 tEVT node=ECU-2 task=heartbeat prio=2 state=START tick=2415
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=2422
+ask=heartbeat prio=2 state=DONE tick=2TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=2415
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2423
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2430
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2439
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2446
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2454
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2461
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2468
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2476
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2484
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2492
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2499
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2506
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2514
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2521
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2529
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2537
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2544
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2553
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2563
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2573
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2581
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2592
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2600
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2610
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2620
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2629
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2638
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2645
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2653
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2660
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2668
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=2672
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2679
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2692
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=2696
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2701
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=2672
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2679
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=2694
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2696
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2712
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2720
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2727
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2735
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2745
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2752
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2767
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2777
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2787
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2796
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2808
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2809
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2826
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2832
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2809
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2826
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2843
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2855
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2863
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2874
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2883
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2890
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2897
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2904
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2908
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2912
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2917
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2930
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2932
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2917
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2931
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2941
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=2946
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=2951
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2954
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=2946
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2951
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2962
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2968
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2976
+EVT node=ECU-2 task=sensor prio=3 state=START tick=2982
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=2994
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=2996
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=2982
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=2995
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3004
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=3004
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3004
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3012
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3020
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3025
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3033
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3040
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3046
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3054
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3061
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3069
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3076
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3084
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3092
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3100
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3107
+EVT node=ECU-2 task=sensor prio=3 state=START tick=3110
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=3123
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3129
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=3110
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3123
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3137
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3145
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3152
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3160
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=3160
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3160
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3169
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3176
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3183
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3188
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3194
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=3201
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=3212
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3212
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=3201
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3212
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3224
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3245
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3254
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3262
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3268
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3276
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3283
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3290
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3298
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3312
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3331
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3341
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3353
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3364
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3371
+EVT node=ECU-2 task=sensor prio=3 state=START tick=3374
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=3397
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3405
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=3374
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3397
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3415
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3423
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3433
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3444
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3455
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=3462
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=3471
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3474
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=3462
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3471
+EVT node=ECU-2 task=sensor prio=3 state=START tick=3481
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=3500
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3503
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=3480
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3500
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3511
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3523
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3531
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3541
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3550
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3562
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3573
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3584
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3595
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3603
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3611
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3622
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3633
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3645
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3656
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3668
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3678
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3688
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3698
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3710
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=3721
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=3728
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3733
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=3721
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3729
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3741
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3750
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3760
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3770
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3782
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3790
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3798
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3808
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3818
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3828
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3841
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3850
+EVT node=ECU-2 task=sensor prio=3 state=START tick=3855
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=3874
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3877
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=3855
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3874
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3889
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3900
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3907
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3917
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3927
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3943
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3953
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3961
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3971
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=3979
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=3987
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3988
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=3979
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=3987
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=3999
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4013
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4022
+0x20021930->FreeRTOS_InterfaceEndPointOnNetMask 524: FreeRTOS_FindEndPointOnNetMask: No match for d0000ip
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4038
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4028
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4030
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4033
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4033
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4051
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4058
+EVT node=ECU-2 task=sensor prio=3 state=START tick=4062
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=4084
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4089
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=4061
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4085
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4097
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4108
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4120
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4129
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4139
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4148
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4160
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=4160
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4160
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4172
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4182
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4194
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4202
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4218
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4226
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4234
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=4237
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=4246
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4255
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=4237
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4246
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4269
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4280
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4292
+EVT node=ECU-2 task=sensor prio=3 state=START tick=4297
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=4314
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4321
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=4296
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4314
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4331
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4340
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4350
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4359
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4368
+EVT node=ECU-2 task=sensor prio=3 state=START tick=4373
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=4396
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4402
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=4373
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4398
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4415
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4423
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4430
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4441
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4452
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4460
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4467
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4474
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4481
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4488
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=4496
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=4502
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4503
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=4496
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4502
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4513
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4521
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4527
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4535
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4541
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4548
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4554
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4565
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4572
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4581
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4590
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4598
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4609
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4621
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4631
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4639
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4648
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4660
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4666
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4673
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4680
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4687
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4697
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4707
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4713
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4724
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4732
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4741
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4748
+EVT node=ECU-2 task=sensor prio=3 state=START tick=4753
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=4768
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=4768
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=4776
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4779
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=4752
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=4768
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4776
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4788
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4799
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4806
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4811
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4816
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4822
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4828
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4834
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4841
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4847
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4854
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4866
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4876
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4885
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4896
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4903
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4915
+EVT node=ECU-2 task=sensor prio=3 state=START tick=4923
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=4940
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4943
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=4923
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4940
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4952
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4960
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=4968
+0x20021930->FreeRTOS_InterfaceEndPointOnNetMask 524: FreeRTOS_FindEndPointOnNetMask: No match for b0000ip
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000eip -> a0a000aip
+0x2001b6a8->eARPProcessPacket 273: ipARP_REQUEST from a0a000eip to a0a000aip end-point a0a000cip
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000aip -> a0a000cip
+0x2001b6a8->eARPProcessPacket 261: ipARP_REPLY from a0a000aip to a0a000cip end-point a0a000cip
+EVT node=ECU-2 task=network prio=6 seq=1 kind=NORMAL state=RECEIVED rx_tick=4156 tick=4974
+EVT node=ECU-2 task=network prio=6 seq=1 kind=NORMAL state=QUEUED tick=4974
+EVT node=ECU-2 task=normal prio=4 seq=1 kind=NORMAL state=EXECUTING tick=4974
+EVT node=ECU-2 task=normal prio=4 seq=1 kind=NORMAL state=DONE tick=5002
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5004
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4971
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4972
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4972
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4972
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4972
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=4972
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4973
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4973
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4973
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=4973
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=4974
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=4974
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=4974
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5002
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5013
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5022
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=5026
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=5032
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5035
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=5026
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5032
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5041
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5048
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5053
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5058
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5065
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5071
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5076
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5083
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5090
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5098
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5106
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5119
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5130
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5140
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5148
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5156
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5163
+EVT node=ECU-2 task=sensor prio=3 state=START tick=5167
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=5185
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5190
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=5167
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5185
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5199
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5207
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5216
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5225
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5235
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5242
+EVT node=ECU-2 task=sensor prio=3 state=START tick=5245
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=5267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5273
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=5244
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5280
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=5282
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=5288
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5295
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=5282
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5288
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5308
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5315
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5324
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5337
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5348
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5359
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5370
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5380
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5392
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5403
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5412
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5421
+EVT node=ECU-2 task=sensor prio=3 state=START tick=5430
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=5449
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5454
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=5430
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5449
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5467
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5475
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5485
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5491
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5498
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5505
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5511
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5517
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5524
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5530
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=5538
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=5547
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5549
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=5538
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5547
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5557
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5563
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5569
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5575
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5582
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5588
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5596
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5603
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5608
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5615
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5622
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5629
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5634
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5640
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5647
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5653
+EVT node=ECU-2 task=sensor prio=3 state=START tick=5660
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=5675
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5677
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=5660
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5675
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5686
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5696
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5705
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5713
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5718
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5725
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5734
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5741
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5747
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5754
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5761
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5766
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5772
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5781
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5791
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=5797
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=5804
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5807
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=5797
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5805
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5817
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5825
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5834
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5843
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5852
+EVT node=ECU-2 task=sensor prio=3 state=START tick=5854
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=5867
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5869
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=5854
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5867
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5877
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5882
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5889
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5896
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5901
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5908
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5915
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5922
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5929
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5936
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5944
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5952
+EVT node=ECU-2 task=network prio=6 seq=3 kind=NORMAL state=RECEIVED rx_tick=6223 tick=5958
+EVT node=ECU-2 task=network prio=6 seq=3 kind=NORMAL state=QUEUE0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000bip -> a0a000aip
+0x2001b6a8->eARPProcessPacket 273: ipARP_REQUEST from a0a000bip to a0a000aip end-point a0a000cip
+to a0a000aipEVT node=ECU-2 task=normal prio=4 seq=3 kind=NORMAL state=EXECUTING tick=5960
+EVT node=ECU-2 task=normal prio=4 seq=3 kind=NORMAL state=DONE tick=5991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=5994
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=5958
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=5958
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=5958
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=5958
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=5958
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=5959
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=5960
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=5960
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=5960
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=5991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6003
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6012
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6019
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6027
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6035
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6043
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6050
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=6055
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=6063
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6067
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=6054
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6063
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6075
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6084
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6092
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6098
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6105
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6113
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6118
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6124
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6131
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6138
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6146
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6154
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6161
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6166
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6174
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6192
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6193
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6174
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6192
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6199
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6207
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6215
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6225
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6233
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6240
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6247
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6254
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6260
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6273
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6280
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6287
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6294
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6303
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6311
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=6313
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=6319
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6324
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=6313
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6319
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6331
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6338
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6347
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6369
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6372
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6347
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6369
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6383
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6396
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6404
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6416
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6421
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6440
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6442
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6420
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6440
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6451
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6461
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6470
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6480
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6489
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6497
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6504
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6510
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6516
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6521
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6528
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6531
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6548
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6531
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6554
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6561
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6568
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=6569
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=6574
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6579
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=6569
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6574
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6588
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6594
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6601
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6607
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6613
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6620
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6626
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6633
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6640
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6646
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6654
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6667
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6674
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6679
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6686
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6693
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6700
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6706
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6713
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6720
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6728
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6734
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6740
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6748
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6755
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6761
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6768
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6774
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6781
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6789
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6796
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6803
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6810
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6816
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6823
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=6824
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=6829
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6835
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=6824
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6829
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6843
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6851
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6864
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6871
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6878
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6882
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6895
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6900
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6882
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6895
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6902
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6909
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6916
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6925
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6934
+EVT node=ECU-2 task=sensor prio=3 state=START tick=6938
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=6959
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6963
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=6938
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6959
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=6960
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=6960
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6972
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6982
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6989
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=6995
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7001
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7007
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7014
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7019
+EVT node=ECU-2 task=network prio=6 seq=4 kind=BRAKE state=RECEIVED rx_tick=7249 tick=7023
+EVT node=ECU-2 task=brake prio=8 seq=4 kind=BRAKE state=EXECUTING rx_tick=7249 tick=7023
+EVT node=ECU-2 task=brake prio=8 seq=4 kind=BRAKE state=DONE tick=7076
+EVT node=ECU-2 task=network prio=6 seq=4 kind=BRAKE state=QUEUED tick=7076
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=7079
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=7087
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7091
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=7022
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=7023
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=7023
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=7023
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=7023
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=7076
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7077
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=7079
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7087
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7103
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7112
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7121
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7129
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7136
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7144
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7151
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7158
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7165
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7173
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7181
+EVT node=ECU-2 task=sensor prio=3 state=START tick=7186
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=7213
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7217
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=7186
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7213
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7227
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7241
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7252
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7260
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7268
+EVT node=ECU-2 task=sensor prio=3 state=START tick=7272
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=7289
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7294
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=7272
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7291
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7301
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7308
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7317
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7330
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=7338
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=7348
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7353
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=7337
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7348
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7364
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7375
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7383
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7389
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7399
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7407
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7416
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7428
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7437
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7451
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7462
+EVT node=ECU-2 task=sensor prio=3 state=START tick=7469
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=7495
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7499
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=7469
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7496
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7509
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7519
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7527
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7535
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7552
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7557
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7563
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7570
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7579
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7590
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=7598
+EVT node=ECU-2 task=sensor prio=3 state=START tick=7603
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=7619
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=7623
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7625
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=7598
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=7603
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=7620
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7624
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7633
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7646
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7655
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7663
+EVT node=ECU-2 task=sensor prio=3 state=START tick=7671
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=7686
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7688
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=7671
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7688
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7697
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7706
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7718
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7728
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7738
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7749
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7755
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7765
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7772
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7782
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7794
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7801
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7809
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7818
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7827
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7836
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7848
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7864
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7872
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=7874
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=7881
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7890
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=7874
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7884
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7899
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7908
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7911
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7919
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7927
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7934
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7943
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7951
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7961
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7970
+EVT node=ECU-2 task=network prio=6 seq=5 kind=NORMAL state=RECEIVED rx_tick=8229 tick=7971
+EVT node=ECU-2 task=network prio=6 seq=5 kind=NORMAL state=QUEUED tick=7971
+EVT node=ECU-2 task=normal prio=4 seq=5 kind=NORMAL state=EXECUTING tick=7971
+EVT node=ECU-2 task=normal prio=4 seq=5 kind=NORMAL state=DONE tick=7991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=7999
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=7970
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=7971
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=7971
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=7971
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=7971
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=7992
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8009
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8018
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8025
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8035
+EVT node=ECU-2 task=sensor prio=3 state=START tick=8042
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=8065
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8069
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=8042
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8065
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8077
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8084
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8094
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8102
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8107
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8114
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8120
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8132
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=8134
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=8145
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8153
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=8134
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8145
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8161
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8169
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8177
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8184
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8193
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8200
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8209
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8216
+EVT node=ECU-2 task=sensor prio=3 state=START tick=8220
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=8240
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8245
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=8220
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8241
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8256
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8266
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8276
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8284
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8295
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8304
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8317
+EVT node=ECU-2 task=sensor prio=3 state=START tick=8324
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=8344
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8349
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=8324
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8344
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8359
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8367
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8373
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8377
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8384
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8392
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=8395
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=8406
+EVT node=ECU-2 task=sensor prio=3 state=START tick=8411
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=8429
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8432
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=8395
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8406
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=8411
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8429
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8445
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8455
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8466
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8475
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8486
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8496
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8504
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8513
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8523
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8534
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8541
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8548
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8555
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8562
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8568
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8574
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8581
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8587
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8595
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8602
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8609
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8616
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8623
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8630
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8638
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8645
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8652
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=8656
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=8662
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8665
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=8656
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8662
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8673
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8683
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8694
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8700
+EVT node=ECU-2 task=sensor prio=3 state=START tick=8704
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=8721
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8726
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=8704
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8721
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8733
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8742
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8752
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8760
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8766
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8774
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8781
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8787
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8792
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8797
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8802
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8809
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8816
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8822
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8829
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8836
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8842
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8847
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8865
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8871
+EVT node=ECU-2 task=network prio=6 seq=6 kind=BRAKE state=RECEIVED rx_tick=9404 tick=8873
+EVT node=ECU-2 task=brake prio=8 seq=6 kind=BRAKE state=EXECUTING rx_tick=9404 tick=8873
+EVT node=ECU-2 task=brake prio=8 seq=6 kind=BRAKE state=DONE tick=8940
+EVT node=ECU-2 task=network prio=6 seq=6 kind=BRAKE state=QUEUED tick=8941
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=8941
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=8948
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8955
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=8872
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=8873
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=8873
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=8873
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=8873
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=8941
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=8941
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=8948
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8967
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8976
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8984
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=8998
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9005
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9013
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9020
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9029
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9039
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9050
+EVT node=ECU-2 task=sensor prio=3 state=START tick=9060
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=9083
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9084
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=9060
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9083
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9094
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9103
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9108
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9115
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9121
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9129
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9137
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9144
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9153
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9161
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9170
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9180
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9189
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9197
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=9199
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=9207
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9216
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=9198
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9209
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9224
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9232
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9243
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9254
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9270
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9276
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9288
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9297
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9308
+EVT node=ECU-2 task=sensor prio=3 state=START tick=9310
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=9333
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9342
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=9310
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9333
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9349
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9357
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9366
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9371
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9379
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9391
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9400
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9408
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9417
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9424
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9430
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9438
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9446
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9457
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=9459
+EVT node=ECU-2 task=sensor prio=3 state=START tick=9465
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=9488
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=9494
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9505
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=9459
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=9464
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=9488
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9495
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9516
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9531
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9542
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9560
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9573
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9594
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9602
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9607
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9616
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9622
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9628
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9634
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9641
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9649
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9655
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9662
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9668
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9674
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9679
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9686
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9691
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9698
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9707
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9714
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9718
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9725
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9732
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9738
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=9744
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=9752
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9755
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=9744
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9753
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9760
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9766
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9773
+EVT node=ECU-2 task=network prio=6 seq=7 kind=TURN state=RECEIVED rx_tick=10409 tick=9776
+EVT node=ECU-2 task=network prio=6 seq=7 kind=TURN state=QUEUED tick=9776
+EVT node=ECU-2 task=normal prio=4 seq=7 kind=TURN state=EXECUTING tick=9776
+EVT node=ECU-2 task=normal prio=4 seq=7 kind=TURN state=DONE tick=9796
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9798
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=9775
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=9776
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=9776
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=9776
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=9776
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9796
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9808
+EVT node=ECU-2 task=sensor prio=3 state=START tick=9811
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=9827
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9832
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=9811
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=9827
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9839
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9847
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9853
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9861
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9868
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9875
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9883
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9890
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9900
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9907
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9916
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9922
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9931
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9939
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9946
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9951
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9959
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9966
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9974
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9981
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9988
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=9995
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10002
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=10003
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=10010
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10016
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=10003
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10010
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10024
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10032
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10039
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10053
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10061
+EVT node=ECU-2 task=sensor prio=3 state=START tick=10062
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=10080
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10091
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=10062
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10080
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10102
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10112
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10121
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10128
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10137
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10146
+EVT node=ECU-2 task=sensor prio=3 state=START tick=10147
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=10171
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10183
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=10147
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10171
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10198
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10206
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10214
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10221
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10227
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10236
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10246
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10253
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=10260
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=10267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10268
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=10260
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10277
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10284
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10292
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10304
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10311
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10320
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10328
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10337
+EVT node=ECU-2 task=sensor prio=3 state=START tick=10342
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=10362
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10367
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=10342
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10362
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10375
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10384
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10392
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10398
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10405
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10413
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10423
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10431
+EVT node=ECU-2 task=sensor prio=3 state=START tick=10437
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=10451
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10453
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=10437
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10451
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10462
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10471
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10480
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10488
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10501
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10509
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=10517
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=10526
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10529
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=10517
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10526
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10537
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10544
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10557
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10563
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10572
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10580
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10589
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10597
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10605
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10615
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10623
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10633
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10640
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10649
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10656
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10666
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10676
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10683
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10691
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10700
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10708
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10718
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10727
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10736
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10745
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10754
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10756
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10765
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10775
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=10776
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=10782
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10789
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=10776
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=10776
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10782
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10797
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10805
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10813
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10820
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10831
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10843
+EVT node=ECU-2 task=sensor prio=3 state=START tick=10846
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=10861
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10865
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=10846
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10861
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10872
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10881
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10888
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10897
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10905
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10915
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10923
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10932
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10941
+EVT node=ECU-2 task=network prio=6 seq=8 kind=NORMAL state=RECEIVED rx_tick=11578 tick=10944
+EVT node=ECU-2 task=network prio=6 seq=8 kind=NORMAL state=QUEUED tick=10944
+EVT node=ECU-2 task=normal prio=4 seq=8 kind=NORMAL state=EXECUTING tick=10944
+EVT node=ECU-2 task=normal prio=4 seq=8 kind=NORMAL state=DONE tick=10976
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10982
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=10944
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=10944
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=10944
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=10944
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=10944
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=10976
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10990
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=10999
+EVT node=ECU-2 task=sensor prio=3 state=START tick=11000
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=11017
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11024
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=11000
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11017
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=11032
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=11038
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11041
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=11032
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11038
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11048
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11056
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11063
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11071
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11079
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11087
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11095
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11104
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11113
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11121
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11127
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11135
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11143
+EVT node=ECU-2 task=sensor prio=3 state=START tick=11148
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=11164
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11165
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=11148
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11164
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11174
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11182
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11187
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11193
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11198
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11205
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11213
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11217
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11224
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11231
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11237
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11244
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11252
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11260
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11274
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11280
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11286
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=11288
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=11295
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11301
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=11288
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11295
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11309
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11318
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11326
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11333
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11340
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11348
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11355
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11361
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11369
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11378
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11387
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11396
+EVT node=ECU-2 task=sensor prio=3 state=START tick=11399
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=11420
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11427
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=11399
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11420
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11434
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11440
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11448
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11455
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11462
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11470
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11477
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11484
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11490
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11498
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11505
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11512
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11519
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000aip -> a0a000aip
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11527
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=11525
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=11526
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=11527
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11527
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11534
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11543
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=11545
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000eip -> a0a000eip
+0x2001b6a8->eARPGetCacheEntryGateWay 1025: ARP a0a000eip miss using a0a000eip
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=11552
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11559
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=11545
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=11545
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=11545
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=11545
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=11545
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11552
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11567
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11576
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11584
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11591
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11598
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11605
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11611
+EVT node=ECU-2 task=sensor prio=3 state=START tick=11615
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=11627
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11631
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=11615
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11627
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11637
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11644
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11652
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11659
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11666
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11674
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11680
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11689
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11696
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11704
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11711
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11717
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11725
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11732
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11739
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11747
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11754
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11758
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11764
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11771
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11778
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11785
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11794
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11800
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=11802
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=11808
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11815
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=11802
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11808
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11822
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11829
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11836
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11844
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11851
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11864
+EVT node=ECU-2 task=sensor prio=3 state=START tick=11870
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=11883
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11885
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=11870
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11884
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11893
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11900
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11907
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11916
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11923
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11930
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11938
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11945
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=11944
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=11944
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11953
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11961
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11970
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11977
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11986
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=11994
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12002
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12009
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12018
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12025
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12034
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000dip -> a0a000dip
+0x2001b6a8->eARPGetCacheEntryGateWay 1025: ARP a0a000dip miss using a0a000dip
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12043
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12037
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=12038
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12038
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12038
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12051
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=12058
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=12064
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12066
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=12058
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12064
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12075
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12081
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12089
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12096
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12105
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12111
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12119
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12126
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12134
+EVT node=ECU-2 task=network prio=6 seq=9 kind=BRAKE state=RECEIVED rx_tick=12760 tick=12136
+EVT node=ECU-2 task=brake prio=8 seq=9 kind=BRAKE state=EXECUTING rx_tick=12760 tick=12136
+EVT node=ECU-2 task=brake prio=8 seq=9 kind=BRAKE state=DONE tick=12190
+EVT node=ECU-2 task=network prio=6 seq=9 kind=BRAKE state=QUEUED tick=12190
+EVT node=ECU-2 task=sensor prio=3 state=START tick=12191
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=12204
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12210
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12135
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=12136
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12136
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=12136
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=12136
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=12156
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=12156
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=12190
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12190
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=12191
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12204
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12219
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12226
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12242
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12251
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12258
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12264
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12272
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12281
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12287
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12295
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12303
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12311
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=12314
+0x20021930->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000bip -> a0a000bip
+0x2001b6a8->eARPGetCacheEntryGateWay 1025: ARP a0a000bip miss using a0a000bip
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=12323
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12328
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=12314
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12318
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=12319
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=12320
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=12320
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12323
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12337
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12345
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12353
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12360
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12367
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12376
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12385
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12393
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12399
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12406
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12414
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12420
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12427
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12434
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12442
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12449
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12457
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12463
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12471
+EVT node=ECU-2 task=sensor prio=3 state=START tick=12479
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=12491
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12492
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=12479
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12492
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12501
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12509
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12516
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12523
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12533
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12552
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12562
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12568
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=12573
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=12579
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12585
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=12573
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12580
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12591
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12605
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12613
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12621
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12629
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12639
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12652
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12673
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12680
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12691
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12702
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12711
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12718
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12726
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12733
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12743
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12752
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12762
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12771
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12780
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12795
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12803
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12808
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12816
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12824
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=12829
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=12835
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12837
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=12829
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12835
+EVT node=ECU-2 task=sensor prio=3 state=START tick=12839
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=12856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12861
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=12839
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=12856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12869
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12877
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12884
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12892
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12900
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12908
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12915
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12923
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12932
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12940
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12948
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12955
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12963
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12974
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12983
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12988
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=12996
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13003
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13013
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13021
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13030
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13040
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13048
+EVT node=ECU-2 task=sensor prio=3 state=START tick=13051
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=13067
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13072
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=13051
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13068
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13082
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=13085
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=13092
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13097
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=13085
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13093
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13105
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13111
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13118
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13126
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13133
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13142
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13148
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13156
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13164
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13172
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13180
+EVT node=ECU-2 task=network prio=6 seq=10 kind=NORMAL state=RECEIVED rx_tick=13941 tick=13186
+EVT node=ECU-2 task=network prio=6 seq=10 kind=NORMAL state=QUEUED tick=13186
+EVT node=ECU-2 task=normal prio=4 seq=10 kind=NORMAL state=EXECUTING tick=13187
+EVT node=ECU-2 task=normal prio=4 seq=10 kind=NORMAL state=DONE tick=13207
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13210
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=13186
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=13186
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=13186
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=13186
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=13187
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13208
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13218
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13226
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13241
+EVT node=ECU-2 task=sensor prio=3 state=START tick=13246
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=13261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13265
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=13246
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13273
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13280
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13288
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13295
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13303
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13310
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13318
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13325
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13331
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13337
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=13343
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=13351
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13354
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=13343
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13352
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13362
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13371
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13380
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13388
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13396
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13404
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13409
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13416
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13424
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13432
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13439
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13446
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13451
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13457
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13465
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13473
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13483
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13489
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13500
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13506
+EVT node=ECU-2 task=sensor prio=3 state=START tick=13512
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=13526
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13527
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=13512
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13526
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13535
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13550
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13556
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13563
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13571
+EVT node=ECU-2 task=sensor prio=3 state=START tick=13577
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=13591
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13593
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=13577
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13592
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=13601
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=13608
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13609
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=13601
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13608
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13617
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13625
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13630
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13638
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13647
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13654
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13667
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13674
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13682
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13687
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13695
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13703
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13709
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13715
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13723
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13730
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13741
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13749
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13755
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13762
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13769
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13777
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13787
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13795
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13803
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13811
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13820
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13830
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13837
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13845
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13853
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=13858
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=13864
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13867
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=13858
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13864
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13875
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13884
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13890
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13897
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13904
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13910
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13918
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13928
+EVT node=ECU-2 task=sensor prio=3 state=START tick=13931
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=13945
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13948
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=13931
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=13945
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13955
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13962
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13969
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13976
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13987
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=13995
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14002
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14012
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14021
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14028
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14035
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14042
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14050
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14055
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14065
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14072
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14079
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14086
+EVT node=ECU-2 task=sensor prio=3 state=START tick=14092
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=14108
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14109
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=14092
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14109
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=14114
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=14122
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14124
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=14114
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14122
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14136
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14147
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14157
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14168
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14178
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14190
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=14187
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14187
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14198
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14209
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14217
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14224
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14242
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14250
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14260
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14273
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14282
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14291
+EVT node=ECU-2 task=network prio=6 seq=11 kind=BRAKE state=RECEIVED rx_tick=15103 tick=14299
+EVT node=ECU-2 task=brake prio=8 seq=11 kind=BRAKE state=EXECUTING rx_tick=15103 tick=14299
+EVT node=ECU-2 task=brake prio=8 seq=11 kind=BRAKE state=DONE tick=14352
+EVT node=ECU-2 task=network prio=6 seq=11 kind=BRAKE state=QUEUED tick=14353
+EVT node=ECU-2 task=sensor prio=3 state=START tick=14353
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=14369
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14370
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=14298
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=14299
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=14299
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=14299
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=14299
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=14353
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=14353
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14369
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=14372
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=14379
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14386
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=14372
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14379
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14394
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14400
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14407
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14414
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14422
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14427
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14435
+EVT node=ECU-2 task=sensor prio=3 state=START tick=14436
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=14454
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14462
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=14436
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14454
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14470
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14476
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14484
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14489
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14495
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14502
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14509
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14516
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14523
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14530
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14536
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14550
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14558
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14565
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14572
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14579
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14594
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14599
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14601
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14609
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14615
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14622
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=14629
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=14637
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14639
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=14629
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14637
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14646
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14654
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14659
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14667
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14674
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14681
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14689
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14696
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14704
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14711
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14719
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14726
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14734
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14742
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14749
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14757
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14763
+EVT node=ECU-2 task=sensor prio=3 state=START tick=14769
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=14786
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14789
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=14769
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14786
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14798
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14805
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14812
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14816
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14823
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14831
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14839
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14846
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14853
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14861
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14869
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14875
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14880
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=14887
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=14895
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14895
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=14887
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=14895
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14903
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14911
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14919
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14927
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14932
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14940
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14947
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14955
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14966
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14974
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14980
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14986
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=14994
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15001
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15005
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15014
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15025
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15031
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15038
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15046
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15053
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15061
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15068
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15075
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15083
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15090
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15097
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15104
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15111
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15118
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15125
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15133
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15140
+EVT node=ECU-2 task=sensor prio=3 state=START tick=15141
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=15160
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=15160
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=15166
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15174
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=15141
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=15160
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15166
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15182
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15189
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15197
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15205
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15212
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15220
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15227
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15235
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15244
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15251
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15268
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15273
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15282
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15292
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15298
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15307
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15314
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15324
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15334
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15343
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15353
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=15353
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15353
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15362
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15371
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15380
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15387
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15396
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15404
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15412
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=15416
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=15422
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15425
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=15416
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15422
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15432
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15438
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15447
+EVT node=ECU-2 task=network prio=6 seq=12 kind=TURN state=RECEIVED rx_tick=16271 tick=15448
+EVT node=ECU-2 task=network prio=6 seq=12 kind=TURN state=QUEUED tick=15448
+EVT node=ECU-2 task=normal prio=4 seq=12 kind=TURN state=EXECUTING tick=15448
+EVT node=ECU-2 task=normal prio=4 seq=12 kind=TURN state=DONE tick=15472
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15479
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=15447
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=15448
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=15448
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=15448
+TRACE node=ECU-2 task=normal state=SWITCH_IN tick=15448
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15472
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15488
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15495
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15503
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15510
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15518
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15525
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15530
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15537
+EVT node=ECU-2 task=sensor prio=3 state=START tick=15539
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=15557
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15562
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=15539
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15557
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15572
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15582
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15591
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15602
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15614
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15625
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15633
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15645
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15653
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15669
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=15672
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=15678
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15681
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=15672
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15678
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15689
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15697
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15703
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15709
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15717
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15725
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15731
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15737
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15743
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15752
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15760
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15769
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15778
+EVT node=ECU-2 task=sensor prio=3 state=START tick=15784
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=15800
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15803
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=15784
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15800
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15812
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15818
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15825
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15833
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15840
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15847
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15854
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15863
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15870
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15878
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15883
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15890
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15900
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15908
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15915
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15922
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=15928
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=15935
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15936
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=15928
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=15935
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15943
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15952
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15960
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15968
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15974
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15981
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15989
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=15995
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16002
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16010
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16017
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16024
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16031
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16039
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16047
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16057
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16065
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16071
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16079
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16088
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16096
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16104
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16113
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16122
+EVT node=ECU-2 task=sensor prio=3 state=START tick=16123
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=16138
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16145
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=16123
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16138
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16153
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16160
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16169
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16177
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=16185
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=16190
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16190
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=16185
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16190
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16198
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16206
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16214
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16222
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16230
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16237
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16246
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16254
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16268
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16277
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16284
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16291
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16298
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16304
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16313
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16321
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16326
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16335
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16343
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16350
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16359
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16366
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16372
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16377
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16383
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16390
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16397
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16402
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16409
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16415
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16423
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16429
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16436
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=16440
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=16445
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16449
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=16440
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16445
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=16448
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16448
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16457
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16464
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16470
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16478
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16486
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16494
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16502
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16510
+EVT node=ECU-2 task=sensor prio=3 state=START tick=16517
+EVT node=ECU-2 task=network prio=6 seq=13 kind=BRAKE state=RECEIVED rx_tick=17265 tick=16535
+EVT node=ECU-2 task=brake prio=8 seq=13 kind=BRAKE state=EXECUTING rx_tick=17265 tick=16536
+EVT node=ECU-2 task=brake prio=8 seq=13 kind=BRAKE state=DONE tick=16585
+EVT node=ECU-2 task=network prio=6 seq=13 kind=BRAKE state=QUEUED tick=16585
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=16586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16588
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=16517
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=16534
+TRACE node=ECU-2 task=IP-task state=SWITCH_IN tick=16535
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=16535
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=16535
+TRACE node=ECU-2 task=brake state=SWITCH_IN tick=16536
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=16585
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=16585
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16598
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16604
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16612
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16620
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16628
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16636
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16644
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16652
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16669
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16677
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16685
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16694
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=16695
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=16701
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16709
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=16695
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16702
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16716
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16723
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16730
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16738
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16747
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16755
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16762
+EVT node=ECU-2 task=sensor prio=3 state=START tick=16765
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=16781
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16786
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=16765
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16781
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16794
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16801
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16806
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16812
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16819
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16828
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16836
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16845
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16851
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16860
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16868
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16873
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16882
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16889
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16897
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16903
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16910
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16917
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16924
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16930
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16937
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16945
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=16952
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=16959
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16960
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=16952
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16959
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16968
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16975
+EVT node=ECU-2 task=sensor prio=3 state=START tick=16976
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=16991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=16998
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=16976
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=16991
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17009
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17020
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17026
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17033
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17041
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17048
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17056
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17064
+EVT node=ECU-2 task=sensor prio=3 state=START tick=17066
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=17086
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17092
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=17066
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17086
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17100
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17107
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17111
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17120
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17127
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17133
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17143
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17149
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17156
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17165
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17173
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17178
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17186
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17193
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17200
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17206
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=17209
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=17215
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17219
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=17209
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17215
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17225
+EVT node=ECU-2 task=sensor prio=3 state=START tick=17233
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=17247
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17232
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=17233
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17247
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17253
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17260
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17266
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17276
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17283
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17289
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17296
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17303
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17310
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17318
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17324
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17332
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17340
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17350
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17359
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17368
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17379
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17390
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17401
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17413
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17422
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17431
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17441
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17450
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17462
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=17465
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=17474
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17479
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=17465
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17475
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17489
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17499
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17508
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17518
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17530
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17541
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17552
+EVT node=ECU-2 task=sensor prio=3 state=START tick=17562
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=17586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17587
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=17562
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=17585
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=17585
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17597
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17610
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17623
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17635
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17649
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17656
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17667
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17677
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17684
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17693
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17705
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17721
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=17725
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=17736
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17746
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=17725
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17736
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17757
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17766
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17779
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17792
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17803
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17812
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17823
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17834
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17842
+EVT node=ECU-2 task=sensor prio=3 state=START tick=17854
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=17879
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17883
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=17853
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17879
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17893
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17901
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17911
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17917
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17927
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17937
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17946
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17957
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17969
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=17980
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=17987
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=17996
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18001
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=17986
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=17996
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18011
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18023
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18033
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18042
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=18035
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18035
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18054
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18064
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18072
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18082
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18096
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18107
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18115
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18128
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18136
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18146
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18152
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18161
+EVT node=ECU-2 taEVT node=ECU-2 task=sensor prio=3 state=START tick=18170
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=18194
+sk=sensor prio=3 state=DONE tick=18194TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=18170
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18194
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18205
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18215
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18231
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18239
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=18247
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=18255
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18257
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=18246
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18255
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18266
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18276
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18285
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18296
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18308
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18321
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18331
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18343
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18354
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18365
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18375
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18384
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18397
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18412
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18425
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18439
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18450
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18464
+EVT node=ECU-2 task=sensor prio=3 state=START tick=18469
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=18485
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18491
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=18469
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18486
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18498
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=18505
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=18511
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18513
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=18505
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18512
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18521
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18527
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18539
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18549
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18559
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18570
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18576
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18584
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=18585
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18585
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18595
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18602
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18612
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18621
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18632
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18639
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18644
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18653
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18661
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18671
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18679
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18686
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18694
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18704
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18714
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18719
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18732
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18742
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18757
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=18762
+EVT node=ECU-2 task=sensor prio=3 state=START tick=18769
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=18787
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=18791
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18797
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=18762
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=18769
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=18787
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18791
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18809
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18822
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18833
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18846
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18856
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18863
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18869
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18875
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18882
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18888
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18895
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18901
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18907
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18914
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18919
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18926
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18932
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18938
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18945
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18953
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18960
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18968
+EVT node=ECU-2 task=sensor prio=3 state=START tick=18974
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=18985
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18986
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=18974
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=18985
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=18993
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19000
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19006
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19013
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19020
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19027
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19033
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19040
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=19041
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=19049
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19054
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=19041
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19049
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19060
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19067
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19073
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19080
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19085
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19092
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19099
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19105
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19113
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19119
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19125
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19132
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19138
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19145
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19151
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19158
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19166
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19173
+EVT node=ECU-2 task=loggeEVT node=ECU-2 task=sensor prio=3 state=START tick=19180
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=19194
+r prio=1 state=RUN tick=19179
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=19180
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19195
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19201
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19207
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19214
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19221
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19227
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19234
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19241
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19247
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19254
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19261
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19267
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19274
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19281
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19287
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19295
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=19299
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=19304
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19308
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=19299
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19305
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19316
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19322
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19328
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19333
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19341
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19347
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19355
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19361
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19370
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19378
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19384
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19390
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19397
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19403
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19410
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19417
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19424
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19430
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19436
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19443
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19450
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19457
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19462
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19469
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19475
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19482
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19489
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19495
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19503
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19508
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19514
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19521
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19529
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19536
+TRACE node=ECU-2 task=EMAC state=SWITCH_IN tick=19535
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19535
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19543
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19549
+EVT node=ECU-2 task=heartbeat prio=2 state=START tick=19554
+EVT node=ECU-2 task=heartbeat prio=2 state=DONE tick=19560
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19560
+TRACE node=ECU-2 task=heartbeat state=SWITCH_IN tick=19554
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19560
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19567
+EVT node=ECU-2 task=sensor prio=3 state=START tick=19574
+EVT node=ECU-2 task=sensor prio=3 state=DONE tick=19586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19586
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=19574
+TRACE node=ECU-2 task=network state=SWITCH_IN tick=19585
+TRACE node=ECU-2 task=sensor state=SWITCH_IN tick=19585
+TRACE node=ECU-2 task=logger state=SWITCH_IN tick=19586
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19592
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19599
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19605
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19611
+EVT node=ECU-2 task=logger prio=1 state=RUN tick=19619

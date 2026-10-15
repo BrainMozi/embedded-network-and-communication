@@ -1,0 +1,16 @@
+{
+  "name": "run_01",
+  "ecu_count": 4,
+  "controller_ip": "10.10.0.10",
+  "ecu_ips": [
+    "10.10.0.11",
+    "10.10.0.12",
+    "10.10.0.13",
+    "10.10.0.14"
+  ],
+  "metadata_correction": "ECU IPs corrected using the firmware formula 10+NODE_ID; raw PCAP and serial logs unchanged.",
+  "multicast": "239.255.0.1:5000",
+  "scheduled_commands": 13,
+  "focus_ecu": "ECU-1",
+  "pcap": "traffic.pcap"
+}

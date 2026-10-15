@@ -1,0 +1,35 @@
+0x2000b698->prvIPTask 242: prvIPTask started
+0x20011920->pxEasyFit 829: EasyFit[dd86]: 0 0 0 ( fe80::7042:2aff:fe77:103e ->ff02::16 ) BAD
+0x20011920->pxEasyFit 829: EasyFit[dd86]: 0 0 0 ( fe80::28c3:66ff:fe9a:5a13 ->ff02::16 ) BAD
+EVT node=CTRL-0 state=TASKS_READY network_prio=6
+0x2000b698->usGetExtensionHeaderLength 246: Stop at header 58
+0x2000b698->usGetExtensionHeaderLength 246: Stop at header 58
+EVT node=CTRL-0 task=network prio=6 state=READY group=239.255.0.1 port=5000 tick=2163
+EVT node=CTRL-0 task=network prio=6 seq=1 kind=NORMAL state=SENT tx_tick=4156 tick=4156
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000dip -> a0a000aip
+0x2000b698->eARPProcessPacket 273: ipARP_REQUEST from a0a000dip to a0a000aip end-point a0a000aip
+0x20011920->FreeRTOS_InterfaceEndPointOnNetMask 524: FreeRTOS_FindEndPointOnNetMask: No match for e0000ip
+EVT node=CTRL-0 task=network prio=6 seq=2 kind=TURN state=SENT tx_tick=5309 tick=5309
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000bip -> a0a000aip
+0x2000b698->eARPProcessPacket 273: ipARP_REQUEST from a0a000bip to a0a000aip end-point a0a000aip
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000cip -> a0a000aip
+0x2000b698->eARPProcessPacket 273: ipARP_REQUEST from a0a000cip to a0a000aip end-point a0a000aip
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000eip -> a0a000aip
+0x2000b698->eARPProcessPacket 273: ipARP_REQUEST from a0a000eip to a0a000aip end-point a0a000aip
+EVT node=CTRL-0 task=network prio=6 seq=3 kind=NORMAL state=SENT tx_tick=6223 tick=6223
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000bip -> a0a000aip
+0x2000b698->eARPProcessPacket 273: ipARP_REQUEST from a0a000bip to a0a000aip end-point a0a000aip
+EVT node=CTRL-0 task=network prio=6 seq=4 kind=BRAKE state=SENT tx_tick=7249 tick=7249
+EVT node=CTRL-0 task=network prio=6 seq=5 kind=NORMAL state=SENT tx_tick=8229 tick=8229
+EVT node=CTRL-0 task=network prio=6 seq=6 kind=BRAKE state=SENT tx_tick=9404 tick=9404
+EVT node=CTRL-0 task=network prio=6 seq=7 kind=TURN state=SENT tx_tick=10409 tick=10409
+EVT node=CTRL-0 task=network prio=6 seq=8 kind=NORMAL state=SENT tx_tick=11578 tick=11578
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000eip -> a0a000eip
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000dip -> a0a000dip
+EVT node=CTRL-0 task=network prio=6 seq=9 kind=BRAKE state=SENT tx_tick=12760 tick=12760
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000cip -> a0a000cip
+0x20011920->FreeRTOS_MatchingEndpoint 930: pxEasyFit: ARP a0a000bip -> a0a000bip
+EVT node=CTRL-0 task=network prio=6 seq=10 kind=NORMAL state=SENT tx_tick=13941 tick=13941
+EVT node=CTRL-0 task=network prio=6 seq=11 kind=BRAKE state=SENT tx_tick=15103 tick=15103
+EVT node=CTRL-0 task=network prio=6 seq=12 kind=TURN state=SENT tx_tick=16271 tick=16271
+EVT node=CTRL-0 task=network prio=6 seq=13 kind=BRAKE state=SENT tx_tick=17265 tick=17265
