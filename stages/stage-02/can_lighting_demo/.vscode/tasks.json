@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "准备 vcan0",
+      "type": "process",
+      "command": "bash",
+      "args": ["scripts/setup_vcan.sh"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": false,
+        "clear": false
+      }
+    },
+    {
+      "label": "启动 CAN 灯光演示（Python）",
+      "type": "process",
+      "command": "${workspaceFolder}/.venv/bin/python",
+      "args": ["src/run_demo.py"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "dependsOn": "准备 vcan0",
+      "dependsOrder": "sequence",
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "focus": true,
+        "clear": false
+      }
+    }
+  ]
+}

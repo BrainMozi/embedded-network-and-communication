@@ -7,6 +7,8 @@
 __pycache__/
 *.py[cod]
 .vscode/
+!stages/stage-02/can_lighting_demo/.vscode/
+!stages/stage-02/can_lighting_demo/.vscode/**
 .DS_Store
 
 # Generated ARM build outputs; keep the source and the curated run_01 evidence
